@@ -1,4 +1,4 @@
-let n = parseFloat(prompt("Введіть"))
+let n = parseFloat(prompt("Введіть число"))
 function fib(n) {
   let a = 0,
     b = 1;
