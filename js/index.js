@@ -9,5 +9,3 @@ function fib(n) {
   }
   return b;
 }
-
-alert(fib(10));
